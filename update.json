@@ -1,0 +1,12 @@
+{
+  "version": "1.2.2",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.2/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "201d0ba8447b48c592f0dd9946752b096aefd5465c3ccedc1640c1cfcc3f7db9",
+  "notes": "Nouveau : cartes des recensements de tribus (bouton Cartes), mises à jour une fois par jour.",
+  "android": {
+    "version": "1.0.2",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.2/ShinySentry-1.0.2.apk",
+    "sha256": "2f09111a17780c3c91d31e911ad4544f99c22d1fc51cd5d8c28a147f094a6e31",
+    "notes": "Nouveau : écran Cartes des recensements de tribus, mis à jour une fois par jour."
+  }
+}
