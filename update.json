@@ -1,12 +1,12 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.3/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "ca68c3777f659c82e2ff141424716e206be867c0ffa8199fae9c3d604c124845",
-  "notes": "Nouveau : cartes des recensements de tribus (bouton Cartes) et bouton « Tribus sur la map » dans la fiche d'un Shiny.",
+  "version": "1.2.4",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.4/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "35a29525e642d6c5c8363617b0ca97128512a8369b74e7445d6f46780b783aca",
+  "notes": "Cartes des recensements : le post est choisi par l'utilisateur (bouton « Utiliser l'onglet Discord actuel » dans la vue Cartes).",
   "android": {
-    "version": "1.0.3",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.3/ShinySentry-1.0.3.apk",
-    "sha256": "aeb9d80ce1db67311ea12ed546782a791d2e4e0b90a3a554c8a3f731873e37f4",
-    "notes": "Nouveau : cartes des recensements de tribus et bouton « Tribus sur la map » dans la fiche d'un Shiny."
+    "version": "1.0.4",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.4/ShinySentry-1.0.4.apk",
+    "sha256": "84fce8921f50cfc3c73b104d290854de938b383986da94327c36e4313b338177",
+    "notes": "Cartes des recensements : le post est choisi par l'utilisateur (écran Discord → « Utiliser pour les cartes »)."
   }
 }
