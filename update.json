@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.4/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "35a29525e642d6c5c8363617b0ca97128512a8369b74e7445d6f46780b783aca",
-  "notes": "Cartes des recensements : le post est choisi par l'utilisateur (bouton « Utiliser l'onglet Discord actuel » dans la vue Cartes).",
+  "version": "1.2.5",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.5/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "c6b373ef63036cc233d110b4118cbf5c0720fcb44ac79ef7df321fa377f668e3",
+  "notes": "Nouveau : lien « ⟳ Mises à jour » sous le titre pour vérifier les mises à jour à la demande.",
   "android": {
     "version": "1.0.4",
     "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.4/ShinySentry-1.0.4.apk",
