@@ -1,12 +1,12 @@
 {
-  "version": "1.2.8",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.8/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "ee130605d5b0345ac34eea1ec8a11035e58bfe26993fa50cfe80c269ab830e10",
-  "notes": "Détection automatique du salon Shiny et du post des cartes (première configuration, bouton « 🔍 Détecter » de la vue Cartes).",
+  "version": "1.2.9",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.9/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "51240c0a79cc0c286567199cf4c2e8f1b95b2f3f3f36c90fe5e945318ceeaaa5",
+  "notes": "Clic sur une alerte Shiny : sa fiche s'ouvre dans l'appli, avec « 🗺 Tribus sur X » et la cible sur la carte.",
   "android": {
-    "version": "1.0.9",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.9/ShinySentry-1.0.9.apk",
-    "sha256": "0618cc624c1c3ba5ea74b7b47ef41339d205b2c1d478994765c5344ae7a98dcb",
-    "notes": "Détection automatique du salon Shiny et du post des cartes (bouton « 🔍 Détection auto » de l'écran Discord)."
+    "version": "1.0.10",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.10/ShinySentry-1.0.10.apk",
+    "sha256": "39af56be2d2208ccc15438e96a06b31ad4a38ddfc81a159b40124c35e093fc8a",
+    "notes": "Toucher une alerte Shiny ouvre sa fiche ; bouton « 🗺 Tribus sur X » dans l'alerte."
   }
 }
