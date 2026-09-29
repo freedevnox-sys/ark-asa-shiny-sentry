@@ -66,6 +66,15 @@ Ensuite, les cartes de ton cluster se mettent à jour **une fois par jour** (ent
 
 **Position du Shiny** : depuis la fiche d'un Shiny, **« Tribus sur <map> »** affiche sa carte avec une **cible jaune** à ses coordonnées Lat / Lon, et son nom. Sur PC, la vue à 100 % s'ouvre centrée sur lui ; sur Android, la carte s'ouvre zoomée dessus (double tap : carte entière).
 
+**Tous les Shinies de la map** : les autres Shinies présents apparaissent en **cibles roses** sur la carte ; un clic (PC) ou un toucher (Android) ouvre leur fiche.
+
+## 🏠 Tes bases
+
+Pose ta base sur la carte d'une map : **clic droit** sur la carte (PC) ou **appui long** (Android, à partir de la 1.1.0), puis « Ma base ici ». Ensuite :
+
+- les alertes des Shinies de cette map indiquent **la distance et la direction** : « 🏠 à 12 de ta base (nord-est) » (distance en unités GPS, 0 à 100) ;
+- un **rayon d'alerte** optionnel (vue Cartes sur PC, ligne « 🏠 Mes bases » sur Android) ne garde que les Shinies proches de tes bases ; les maps où tu n'as pas de base ne sont pas filtrées. 0 = alertes partout.
+
 ## 🔄 Mises à jour
 
 L'application vérifie les mises à jour **à chaque démarrage** — sur PC, le lien **« ⟳ Mises à jour »** sous le titre relance la vérification à la demande. Une nouvelle version est téléchargée depuis ces releases et **installée seulement si son empreinte SHA-256 correspond** à celle publiée. Tes réglages, ta licence et ta session Discord sont conservés.
