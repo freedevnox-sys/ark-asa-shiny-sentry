@@ -1,12 +1,12 @@
 {
-  "version": "1.2.5",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.5/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "c6b373ef63036cc233d110b4118cbf5c0720fcb44ac79ef7df321fa377f668e3",
-  "notes": "Nouveau : lien « ⟳ Mises à jour » sous le titre pour vérifier les mises à jour à la demande.",
+  "version": "1.2.6",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.6/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "93aa3cdfde9f1e125a535636f45cc98aba03360c3d8ae31c2bd4c68c697e061e",
+  "notes": "Cartes des recensements : consulter les cartes d'un autre cluster (liste « Cluster » dans la vue Cartes).",
   "android": {
-    "version": "1.0.4",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.4/ShinySentry-1.0.4.apk",
-    "sha256": "84fce8921f50cfc3c73b104d290854de938b383986da94327c36e4313b338177",
-    "notes": "Cartes des recensements : le post est choisi par l'utilisateur (écran Discord → « Utiliser pour les cartes »)."
+    "version": "1.0.5",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.5/ShinySentry-1.0.5.apk",
+    "sha256": "1d667c74ca91cc230290945ff63cbc529065ae815386c3be91cf6b87d61c8384",
+    "notes": "Cartes des recensements : consulter les cartes d'un autre cluster (« Cluster … ▾ » dans l'écran Cartes)."
   }
 }
