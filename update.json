@@ -4,9 +4,9 @@
   "sha256": "a9a86f61a39832917706c9a6325c694dbc359a79d6a523097e2d2a1bdbb24381",
   "notes": "Cartes des recensements : « Tribus sur <map> » depuis la fiche d'un Shiny montre sa position sur la carte.",
   "android": {
-    "version": "1.0.7",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.7/ShinySentry-1.0.7.apk",
-    "sha256": "38f8425f0b30d158f6712361742495102e6b75514bf4ef1db0e90672a92d4264",
-    "notes": "« Arrêter » remet Discord au propre et arrête aussi une mise à jour des cartes en cours. Position du Shiny sur la carte des tribus (1.0.6)."
+    "version": "1.0.8",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.8/ShinySentry-1.0.8.apk",
+    "sha256": "6bf7ed1c177849649a5c2bdba05b6404cfc4636a7c7866aae9bcf19b26b8732b",
+    "notes": "Écran Discord affiché en entier (plus de zones noires). « Arrêter » remet Discord au propre et arrête aussi une mise à jour des cartes."
   }
 }
