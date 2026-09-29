@@ -4,9 +4,9 @@
   "sha256": "ee130605d5b0345ac34eea1ec8a11035e58bfe26993fa50cfe80c269ab830e10",
   "notes": "Détection automatique du salon Shiny et du post des cartes (première configuration, bouton « 🔍 Détecter » de la vue Cartes).",
   "android": {
-    "version": "1.0.8",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.8/ShinySentry-1.0.8.apk",
-    "sha256": "6bf7ed1c177849649a5c2bdba05b6404cfc4636a7c7866aae9bcf19b26b8732b",
-    "notes": "Écran Discord affiché en entier (plus de zones noires). « Arrêter » remet Discord au propre et arrête aussi une mise à jour des cartes."
+    "version": "1.0.9",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.9/ShinySentry-1.0.9.apk",
+    "sha256": "0618cc624c1c3ba5ea74b7b47ef41339d205b2c1d478994765c5344ae7a98dcb",
+    "notes": "Détection automatique du salon Shiny et du post des cartes (bouton « 🔍 Détection auto » de l'écran Discord)."
   }
 }
