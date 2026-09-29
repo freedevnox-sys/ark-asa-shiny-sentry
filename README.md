@@ -17,7 +17,7 @@ Disponible sur **PC Windows** et sur **Android** (le téléphone fait tout seul,
 - **Liste des Shinies présents** avec recherche, tri, coordonnées **Lat / Lon** à copier en un clic.
 - **Fiche taming** de chaque créature (KO, passif, œuf…) avec lien Dododex.
 - **Historique** des Shinies détectés sur 7 jours.
-- **Cartes des recensements de tribus** (plugin TribeRegistry) : une carte par map avec les bases principales 🏠, avant-postes 📍 et déménagements 🚚, zoomable. Mise à jour **une fois par jour** ou à la demande, pour ton cluster ou n'importe quel autre. Depuis la fiche d'un Shiny, **« Tribus sur <map> »** ouvre la carte de sa map.
+- **Cartes des recensements de tribus** (plugin TribeRegistry) : une carte par map avec les bases principales 🏠, avant-postes 📍 et déménagements 🚚, zoomable. Mise à jour **une fois par jour** ou à la demande, pour ton cluster ou n'importe quel autre. Depuis la fiche d'un Shiny, **« Tribus sur <map> »** ouvre la carte de sa map avec **la position du Shiny repérée** : tu vois tout de suite s'il est près d'une base.
 - **Santé du scanner** : une map qui échoue plusieurs fois est mise en pause et signalée, puis reprise automatiquement ; écran **Diagnostic** exportable.
 - **Mises à jour intégrées** : l'application propose elle-même les nouvelles versions, vérifiées avant installation.
 
@@ -30,7 +30,7 @@ Côté Android : surveillance **en arrière-plan et écran éteint**, import de 
 
 1. Télécharge `ARK_ASA_Shiny_Sentry.exe` depuis la dernière release **`V…`**.
 2. Lance-le. Windows SmartScreen peut afficher « Windows a protégé votre ordinateur » : **Informations complémentaires → Exécuter quand même**.
-3. **Activation** : l'écran « Activation requise » affiche ton **ID d'installation** → **Copier l'ID** et envoie-le à **Nox**. Colle la clé reçue puis **Activer et démarrer**.
+3. **Activation** : l'écran « Activation requise » affiche ton **ID d'installation** → **Copier l'ID** et envoie-le à **Nox** (voir [Contact](#-contact)). Colle la clé reçue puis **Activer et démarrer**.
 4. **Première configuration** (assistant) :
    1. **Ouvrir Discord** : un navigateur Chromium dédié s'ouvre.
    2. **Connecte-toi à Discord** dans ce navigateur.
@@ -43,7 +43,7 @@ Le scan ne démarre jamais tout seul, et une seule fenêtre de l'application peu
 ## 📱 Installation Android (Android 8 ou plus)
 
 1. Sur le téléphone, télécharge `ShinySentry-x.y.z.apk` depuis la dernière release **`A…`** et ouvre-le (autorise l'installation depuis cette source si Android le demande).
-2. **Activation** : envoie l'**ID d'installation** affiché à **Nox** (bouton d'envoi intégré), puis colle la clé reçue.
+2. **Activation** : envoie l'**ID d'installation** affiché à **Nox** (bouton d'envoi intégré, ou voir [Contact](#-contact)), puis colle la clé reçue.
 3. Autorise les **notifications**.
 4. **Discord** → **Connexion** → connecte-toi à Discord dans l'application.
 5. Va dans le salon Shiny de L'indic, repasse en **Vue bureau**, puis **Utiliser ce salon**.
@@ -61,6 +61,8 @@ Les cartes viennent du post **« Panel de recensement des tribus »** (forum *re
 - **Android** : écran **Discord** → ouvre ce post → **« Utiliser pour les cartes »**.
 
 Ensuite, les cartes de ton cluster se mettent à jour **une fois par jour** (entre deux cycles de surveillance, dans un onglet séparé sur PC) ; **Actualiser** les met à jour à la demande. Le sélecteur **Cluster** permet de consulter Omega, Chaos, Classique… Une map en échec garde sa dernière carte connue.
+
+**Position du Shiny** : depuis la fiche d'un Shiny, **« Tribus sur <map> »** affiche sa carte avec une **cible jaune** à ses coordonnées Lat / Lon, et son nom. Sur PC, la vue à 100 % s'ouvre centrée sur lui ; sur Android, la carte s'ouvre zoomée dessus (double tap : carte entière).
 
 ## 🔄 Mises à jour
 
@@ -80,6 +82,13 @@ L'application vérifie les mises à jour **à chaque démarrage** — sur PC, le
 - **Une map reste en pause** : **Diagnostic → Retester les maps en pause**.
 - **Cartes vides** : vérifie que le post du panel est bien choisi (voir ci-dessus) et que Discord est connecté.
 - Pour signaler un problème, joins l'export **Diagnostic** (PC : bouton Diagnostic ; Android : menu ⋮ → Diagnostic → Exporter).
+
+## 📬 Contact
+
+- **Discord** : **noxly**
+- **E-mail** : [free.dev.nox@gmail.com](mailto:free.dev.nox@gmail.com)
+
+Pour une clé d'activation, une question ou un bug (avec l'export Diagnostic si possible).
 
 ---
 
