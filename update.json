@@ -1,8 +1,8 @@
 {
-  "version": "1.2.7",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.7/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "a9a86f61a39832917706c9a6325c694dbc359a79d6a523097e2d2a1bdbb24381",
-  "notes": "Cartes des recensements : « Tribus sur <map> » depuis la fiche d'un Shiny montre sa position sur la carte.",
+  "version": "1.2.8",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.8/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "ee130605d5b0345ac34eea1ec8a11035e58bfe26993fa50cfe80c269ab830e10",
+  "notes": "Détection automatique du salon Shiny et du post des cartes (première configuration, bouton « 🔍 Détecter » de la vue Cartes).",
   "android": {
     "version": "1.0.8",
     "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.8/ShinySentry-1.0.8.apk",
