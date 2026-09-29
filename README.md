@@ -34,7 +34,7 @@ Côté Android : surveillance **en arrière-plan et écran éteint**, import de 
 4. **Première configuration** (assistant) :
    1. **Ouvrir Discord** : un navigateur Chromium dédié s'ouvre.
    2. **Connecte-toi à Discord** dans ce navigateur.
-   3. **Canal Shiny** : ouvre le salon Shiny de L'indic et colle son adresse (`https://discord.com/channels/…`).
+   3. **Canal Shiny** : trouvé **automatiquement** (salon Shiny de L'indic et post des cartes), tu confirmes. Sinon **🔍 Détection automatique**, ou ouvre le salon et colle son adresse (`https://discord.com/channels/…`).
    4. **Sources des dinos** : liste ASA officielle, plus les mods de ton cluster si besoin.
 5. Choisis tes filtres dans **⚙ Configuration**, puis **Démarrer**.
 
@@ -46,7 +46,7 @@ Le scan ne démarre jamais tout seul, et une seule fenêtre de l'application peu
 2. **Activation** : envoie l'**ID d'installation** affiché à **Nox** (bouton d'envoi intégré, ou voir [Contact](#-contact)), puis colle la clé reçue.
 3. Autorise les **notifications**.
 4. **Discord** → **Connexion** → connecte-toi à Discord dans l'application.
-5. Va dans le salon Shiny de L'indic, repasse en **Vue bureau**, puis **Utiliser ce salon**.
+5. Les salons de L'indic (salon Shiny et post des cartes) sont **trouvés automatiquement** : confirme avec **Enregistrer**. Sinon **🔍 Détection auto**, ou va dans le salon Shiny puis **Utiliser ce salon**.
 6. **Configuration** : ton cluster (Boosté par défaut) et tes filtres, puis **Démarrer la surveillance**.
 
 Pour que la surveillance continue application fermée et écran éteint, autorise **« Afficher par-dessus les autres applis »** et retire l'**optimisation de batterie** pour Shiny Sentry (l'écran principal te guide).
@@ -55,10 +55,12 @@ Pour que la surveillance continue application fermée et écran éteint, autoris
 
 ## 🗺 Cartes des recensements
 
-Les cartes viennent du post **« Panel de recensement des tribus »** (forum *recensements-auto* du Discord), celui qui a le bouton **« Carte des recensements »**. Indique-le une fois :
+Les cartes viennent du post **« Panel de recensement des tribus »** (forum *recensements-auto* du Discord), celui qui a le bouton **« Carte des recensements »**. Il est **trouvé automatiquement** avec le salon Shiny (recherche rapide de Discord, vérification du bouton, confirmation avant d'enregistrer). Sinon :
 
-- **PC** : vue **🗺 Cartes** → ouvre ce post dans le Chromium de Shiny Sentry → **« Utiliser l'onglet Discord actuel »** (ou colle son lien).
-- **Android** : écran **Discord** → ouvre ce post → **« Utiliser pour les cartes »**.
+- **PC** : vue **🗺 Cartes** → **« 🔍 Détecter »**, ou ouvre ce post dans le Chromium de Shiny Sentry → **« Utiliser l'onglet Discord actuel »** (ou colle son lien).
+- **Android** : écran **Discord** → **« 🔍 Détection auto »**, ou ouvre ce post → **« Utiliser pour les cartes »**.
+
+La détection ne fait qu'ouvrir et lire des pages Discord : aucun clic, rien n'est publié.
 
 Ensuite, les cartes de ton cluster se mettent à jour **une fois par jour** (entre deux cycles de surveillance, dans un onglet séparé sur PC) ; **Actualiser** les met à jour à la demande. Le sélecteur **Cluster** permet de consulter Omega, Chaos, Classique… Une map en échec garde sa dernière carte connue.
 
