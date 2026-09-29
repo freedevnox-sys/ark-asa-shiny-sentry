@@ -1,12 +1,12 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.6/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "93aa3cdfde9f1e125a535636f45cc98aba03360c3d8ae31c2bd4c68c697e061e",
-  "notes": "Cartes des recensements : consulter les cartes d'un autre cluster (liste « Cluster » dans la vue Cartes).",
+  "version": "1.2.7",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.2.7/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "a9a86f61a39832917706c9a6325c694dbc359a79d6a523097e2d2a1bdbb24381",
+  "notes": "Cartes des recensements : « Tribus sur <map> » depuis la fiche d'un Shiny montre sa position sur la carte.",
   "android": {
-    "version": "1.0.5",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.5/ShinySentry-1.0.5.apk",
-    "sha256": "1d667c74ca91cc230290945ff63cbc529065ae815386c3be91cf6b87d61c8384",
-    "notes": "Cartes des recensements : consulter les cartes d'un autre cluster (« Cluster … ▾ » dans l'écran Cartes)."
+    "version": "1.0.6",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.6/ShinySentry-1.0.6.apk",
+    "sha256": "8eee2164a2e69431cd9441f1d62f49b20284eab4129efbb4a8869c17865ccb15",
+    "notes": "Cartes des recensements : « Tribus sur <map> » depuis la fiche d'un Shiny montre sa position sur la carte."
   }
 }
