@@ -18,6 +18,7 @@ Disponible sur **PC Windows** et sur **Android** (le téléphone fait tout seul,
 - **Fiche taming** de chaque créature (KO, passif, œuf…) avec lien Dododex.
 - **Historique** des Shinies détectés sur 7 jours.
 - **Cartes des recensements de tribus** (plugin TribeRegistry) : une carte par map avec les bases principales 🏠, avant-postes 📍 et déménagements 🚚, zoomable. Mise à jour **une fois par jour** ou à la demande, pour ton cluster ou n'importe quel autre. Depuis la fiche d'un Shiny, **« Tribus sur <map> »** ouvre la carte de sa map avec **la position du Shiny repérée** : tu vois tout de suite s'il est près d'une base.
+- **Glitches de Genesis 1** : les 150 glitches (biomes, histoire, anecdotes) à cocher une fois réparés, avec leur **position sur la carte** de Genesis et ta progression.
 - **Santé du scanner** : une map qui échoue plusieurs fois est mise en pause et signalée, puis reprise automatiquement ; écran **Diagnostic** exportable.
 - **Mises à jour intégrées** : l'application propose elle-même les nouvelles versions, vérifiées avant installation.
 
@@ -74,6 +75,16 @@ Pose ta base sur la carte d'une map : **clic droit** sur la carte (PC) ou **appu
 
 - les alertes des Shinies de cette map indiquent **la distance et la direction** : « 🏠 à 12 de ta base (nord-est) » (distance en unités GPS, 0 à 100) ;
 - un **rayon d'alerte** optionnel (vue Cartes sur PC, ligne « 🏠 Mes bases » sur Android) ne garde que les Shinies proches de tes bases ; les maps où tu n'as pas de base ne sont pas filtrées. 0 = alertes partout.
+
+## 🧩 Glitches de Genesis 1
+
+Bouton **🧩 Glitches Gen 1** (PC) ou menu **⋮ → Glitches de Genesis 1** (Android) : les 150 glitches du wiki (36 de biome, 40 d'histoire, 74 anecdotes).
+
+- **Coche** un glitch une fois réparé (PC : clic dans la colonne ✔, double-clic ou Espace) ; ta progression s'affiche par type.
+- Filtres **À réparer / Réparés**, par type, par biome, et recherche (« siphon », « volcan »…).
+- Choisis un glitch : il apparaît en **cible jaune** sur la carte de Genesis du recensement, les autres glitches en pastilles **vertes** (réparés) ou **orange** (à réparer). Seuls les glitches sont affichés : ni ressources, ni autres points d'intérêt. Coordonnées Lat / Lon à copier (PC).
+- Les positions sont celles du wiki, converties pour ASA (Genesis est agrandie en ASA). Les **30 glitches de l'océan** n'ont pas encore de position connue en ASA : ils sont dans la liste, sans repère sur la carte.
+- La carte vient du recensement : ouvre une fois **🗺 Cartes → Actualiser** sur un cluster qui a Genesis.
 
 ## 🔄 Mises à jour
 
