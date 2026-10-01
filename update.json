@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.0/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "08e4dabf7e19c9ee4cb1b931fd025b41e81dd258d75c0a33d09e86ed6da64c38",
-  "notes": "Shinies présents et ta base sur la carte (clic droit = poser ta base) ; distance à ta base dans les alertes ; rayon d'alerte optionnel.",
+  "version": "1.3.1",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.1/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "8df253968c1b48398cd63221171e8f6f5bfbbcd657079c4d92882a7b51d0f15b",
+  "notes": "Nouveau : 🧩 Glitches de Genesis 1 — les 150 glitches à cocher une fois réparés, et leur position sur la carte de Genesis.",
   "android": {
     "version": "1.0.10",
     "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.10/ShinySentry-1.0.10.apk",
