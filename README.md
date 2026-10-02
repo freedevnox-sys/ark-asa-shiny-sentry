@@ -35,11 +35,11 @@ Côté Android : surveillance **en arrière-plan et écran éteint**, import de 
 4. **Première configuration** (assistant) :
    1. **Ouvrir Discord** : un navigateur Chromium dédié s'ouvre.
    2. **Connecte-toi à Discord** dans ce navigateur.
-   3. **Canal Shiny** : trouvé **automatiquement** (salon Shiny de L'indic et post des cartes), tu confirmes. Sinon **🔍 Détection automatique**, ou ouvre le salon et colle son adresse (`https://discord.com/channels/…`).
+   3. **Canal Shiny** : trouvé **automatiquement** (salon Shiny de L'indic et post des cartes), tu confirmes. Sinon **🔍 Détection automatique**, ou ouvre le salon et colle son adresse (`https://discord.com/channels/…`). Plus tard, **⚙ Configuration → 🔍 Détecter** (à côté de l'adresse du salon) relance la recherche.
    4. **Sources des dinos** : liste ASA officielle, plus les mods de ton cluster si besoin.
 5. Choisis tes filtres dans **⚙ Configuration**, puis **Démarrer**.
 
-Le scan ne démarre jamais tout seul, et une seule fenêtre de l'application peut être ouverte à la fois. Chromium reste ouvert entre deux surveillances pour garder ta session Discord.
+Le scan ne démarre jamais tout seul, et une seule fenêtre de l'application peut être ouverte à la fois. Chromium reste ouvert entre deux surveillances pour garder ta session Discord. Il est lancé en français : Discord y affiche l'âge des Shinies comme L'indic l'attend (l'anglais est aussi compris).
 
 ## 📱 Installation Android (Android 8 ou plus)
 
