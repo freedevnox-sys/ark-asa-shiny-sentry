@@ -4,9 +4,9 @@
   "sha256": "8df253968c1b48398cd63221171e8f6f5bfbbcd657079c4d92882a7b51d0f15b",
   "notes": "Nouveau : 🧩 Glitches de Genesis 1 — les 150 glitches à cocher une fois réparés, et leur position sur la carte de Genesis.",
   "android": {
-    "version": "1.0.10",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.0.10/ShinySentry-1.0.10.apk",
-    "sha256": "39af56be2d2208ccc15438e96a06b31ad4a38ddfc81a159b40124c35e093fc8a",
-    "notes": "Toucher une alerte Shiny ouvre sa fiche ; bouton « 🗺 Tribus sur X » dans l'alerte."
+    "version": "1.1.0",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.0/ShinySentry-1.1.0.apk",
+    "sha256": "bc6394209f65cecfed3892b42bc87a75c4a6791abac76884ebf4ea7b2ddca0d4",
+    "notes": "Nouveau : 🧩 Glitches de Genesis 1 (menu ⋮) et tes bases sur les cartes (appui long), avec la distance dans les alertes."
   }
 }
