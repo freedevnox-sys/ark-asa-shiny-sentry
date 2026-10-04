@@ -23,7 +23,7 @@ Disponible sur **PC Windows** et sur **Android** (le téléphone fait tout seul,
 - **Mises à jour intégrées** : l'application propose elle-même les nouvelles versions, vérifiées avant installation.
 
 Côté PC uniquement : **Status serveur** (joueurs connectés par map) et rappel du **vote Top-Serveurs**.
-Côté Android : surveillance **en arrière-plan et écran éteint**, import de la configuration PC.
+Côté Android : surveillance **en arrière-plan et écran éteint**, import de la configuration PC, **Shops des tribus** (offres du forum shop-tribus en une liste).
 
 ---
 
@@ -86,6 +86,15 @@ Bouton **🧩 Glitches Gen 1** (PC) ou menu **⋮ → Glitches de Genesis 1** (A
 - Les positions sont celles du wiki, converties pour ASA (Genesis est agrandie en ASA). Les **30 glitches de l'océan** n'ont pas de position connue en ASA : à toi de la noter.
 - **📍 Noter la position** (PC : bouton ou clic droit sur la carte ; Android : **📍 Position** ou appui long sur la carte) : place un glitch là où tu l'as trouvé en jeu, ou corrige une position fausse. Ta position (notée) remplace celle du wiki ; « Oublier » la retire. Celles notées sur le PC passent sur le téléphone avec **Configuration → ⋮ → Importer une config…** (config.json du PC).
 - La carte vient du recensement : ouvre une fois **🗺 Cartes → Actualiser** sur un cluster qui a Genesis.
+
+## 💰 Shops des tribus (Android, à partir de la 1.1.4)
+
+Menu **⋮ → Shops des tribus** : les offres postées dans le forum **shop-tribus** du Discord France Ark, réunies en une seule liste.
+
+- **Recherche** (dino, objet, tribu, vendeur…) et filtres par **cluster** et par **type** (étiquettes du forum).
+- Pour chaque offre : le texte du vendeur, les **prix** et les **espèces** repérés, et les **images** (toucher = plein écran).
+- Toucher un shop ouvre **son post dans Discord**.
+- La liste est lue **seulement quand tu touches « ⟳ Actualiser »** (environ 2 minutes) ; pendant une surveillance, la lecture passe entre deux cycles de scan. Lecture seule : rien n'est jamais posté.
 
 ## 🔄 Mises à jour
 
