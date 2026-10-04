@@ -90,6 +90,8 @@ Bouton **🧩 Glitches Gen 1** (PC) ou menu **⋮ → Glitches de Genesis 1** (A
 
 L'application vérifie les mises à jour **à chaque démarrage** — sur PC, le lien **« ⟳ Mises à jour »** sous le titre relance la vérification à la demande. Une nouvelle version est téléchargée depuis ces releases et **installée seulement si son empreinte SHA-256 correspond** à celle publiée. Tes réglages, ta licence et ta session Discord sont conservés.
 
+Après chaque mise à jour, une fenêtre **« ✨ Nouveautés »** présente une fois les changements des deux dernières versions. Pour la revoir : lien **« ✨ Nouveautés »** sous le titre (PC), ou menu **⋮ → Nouveautés** (Android).
+
 ---
 
 ## 🔒 Confidentialité
