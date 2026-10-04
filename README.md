@@ -18,12 +18,13 @@ Disponible sur **PC Windows** et sur **Android** (le téléphone fait tout seul,
 - **Fiche taming** de chaque créature (KO, passif, œuf…) avec lien Dododex.
 - **Historique** des Shinies détectés sur 7 jours.
 - **Cartes des recensements de tribus** (plugin TribeRegistry) : une carte par map avec les bases principales 🏠, avant-postes 📍 et déménagements 🚚, zoomable. Mise à jour **une fois par jour** ou à la demande, pour ton cluster ou n'importe quel autre. Depuis la fiche d'un Shiny, **« Tribus sur <map> »** ouvre la carte de sa map avec **la position du Shiny repérée** : tu vois tout de suite s'il est près d'une base.
+- **Shops des tribus** : les offres du forum shop-tribus de France Ark en une liste, avec recherche et filtres, lue à la demande.
 - **Glitches de Genesis 1** : les 150 glitches (biomes, histoire, anecdotes) à cocher une fois réparés, avec leur **position sur la carte** de Genesis (ou celle que tu notes en jeu) et ta progression.
 - **Santé du scanner** : une map qui échoue plusieurs fois est mise en pause et signalée, puis reprise automatiquement ; écran **Diagnostic** exportable.
 - **Mises à jour intégrées** : l'application propose elle-même les nouvelles versions, vérifiées avant installation.
 
 Côté PC uniquement : **Status serveur** (joueurs connectés par map) et rappel du **vote Top-Serveurs**.
-Côté Android : surveillance **en arrière-plan et écran éteint**, import de la configuration PC, **Shops des tribus** (offres du forum shop-tribus en une liste).
+Côté Android : surveillance **en arrière-plan et écran éteint**, import de la configuration PC.
 
 ---
 
@@ -87,14 +88,14 @@ Bouton **🧩 Glitches Gen 1** (PC) ou menu **⋮ → Glitches de Genesis 1** (A
 - **📍 Noter la position** (PC : bouton ou clic droit sur la carte ; Android : **📍 Position** ou appui long sur la carte) : place un glitch là où tu l'as trouvé en jeu, ou corrige une position fausse. Ta position (notée) remplace celle du wiki ; « Oublier » la retire. Celles notées sur le PC passent sur le téléphone avec **Configuration → ⋮ → Importer une config…** (config.json du PC).
 - La carte vient du recensement : ouvre une fois **🗺 Cartes → Actualiser** sur un cluster qui a Genesis.
 
-## 💰 Shops des tribus (Android, à partir de la 1.1.4)
+## 💰 Shops des tribus (PC 1.3.6 / Android 1.1.4)
 
-Menu **⋮ → Shops des tribus** : les offres postées dans le forum **shop-tribus** du Discord France Ark, réunies en une seule liste.
+Bouton **💰 Shops** (PC) ou menu **⋮ → Shops des tribus** (Android) : les offres postées dans le forum **shop-tribus** du Discord France Ark, réunies en une seule liste.
 
 - **Recherche** (dino, objet, tribu, vendeur…) et filtres par **cluster** et par **type** (étiquettes du forum).
-- Pour chaque offre : le texte du vendeur, les **prix** et les **espèces** repérés, et les **images** (toucher = plein écran).
-- Toucher un shop ouvre **son post dans Discord**.
-- La liste est lue **seulement quand tu touches « ⟳ Actualiser »** (environ 2 minutes) ; pendant une surveillance, la lecture passe entre deux cycles de scan. Lecture seule : rien n'est jamais posté.
+- Pour chaque offre : le texte du vendeur, les **prix** et les **espèces** repérés, et les **images** (clic ou toucher = image en grand).
+- Un clic (ou un toucher) sur un shop ouvre **son post dans Discord**.
+- La liste est lue **seulement quand tu cliques ou touches « Actualiser »** (environ 2 minutes) ; pendant une surveillance, la lecture passe entre deux cycles de scan. Lecture seule : rien n'est jamais posté.
 
 ## 🔄 Mises à jour
 
