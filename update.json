@@ -1,12 +1,12 @@
 {
-  "version": "1.3.3",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.3/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "f5d5a42e9957daa1f7a1986a0f51b475ff0108cb988bcbac22676c4bfde5388c",
-  "notes": "Nouveau : fenêtre « ✨ Nouveautés » après chaque mise à jour, à revoir avec le lien sous le titre.",
+  "version": "1.3.4",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.4/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "4985075937a75c7a9bdfe3aabbffe457c5dbeb2640658f9e398a69688e400877",
+  "notes": "Correctif : quand L'indic tarde à afficher une map, son récapitulatif n'est plus pris pour la réponse (plus de map en échec ni lue vide à tort, plus de Shinies revenus en « nouveaux »).",
   "android": {
-    "version": "1.1.1",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.1/ShinySentry-1.1.1.apk",
-    "sha256": "891933c733861d06f070efb46c2d01517351764b5013542b5c9f5596bf5d9616",
-    "notes": "Nouveau : fenêtre « Nouveautés » après chaque mise à jour, à revoir dans ⋮ → Nouveautés."
+    "version": "1.1.2",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.2/ShinySentry-1.1.2.apk",
+    "sha256": "4774b342c311f780d14c2db5c51305e3b9460ae869459e6bba51eb1d5fe62c6a",
+    "notes": "Correctif : quand L'indic tarde à afficher une map, son récapitulatif n'est plus pris pour la réponse (plus de map en échec ni lue vide à tort, plus de Shinies revenus en « nouveaux »)."
   }
 }
