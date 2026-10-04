@@ -1,12 +1,12 @@
 {
-  "version": "1.3.2",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.2/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "dfdc7abe2f3657af1af50267e96ec99c014ccf6e76a437aaeaa10c7b8debffa8",
-  "notes": "Correctif : les maps dont un Shiny a plus d'une heure ne sont plus en échec (âge en anglais). Détection des salons renforcée et bouton « 🔍 Détecter » dans Configuration.",
+  "version": "1.3.3",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.3/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "f5d5a42e9957daa1f7a1986a0f51b475ff0108cb988bcbac22676c4bfde5388c",
+  "notes": "Nouveau : fenêtre « ✨ Nouveautés » après chaque mise à jour, à revoir avec le lien sous le titre.",
   "android": {
-    "version": "1.1.0",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.0/ShinySentry-1.1.0.apk",
-    "sha256": "bc6394209f65cecfed3892b42bc87a75c4a6791abac76884ebf4ea7b2ddca0d4",
-    "notes": "Nouveau : 🧩 Glitches de Genesis 1 (menu ⋮) et tes bases sur les cartes (appui long), avec la distance dans les alertes."
+    "version": "1.1.1",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.1/ShinySentry-1.1.1.apk",
+    "sha256": "891933c733861d06f070efb46c2d01517351764b5013542b5c9f5596bf5d9616",
+    "notes": "Nouveau : fenêtre « Nouveautés » après chaque mise à jour, à revoir dans ⋮ → Nouveautés."
   }
 }
