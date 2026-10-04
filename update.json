@@ -4,9 +4,9 @@
   "sha256": "aafc40e3f6c4002a72cd817b353ea75f7ade0315ecbabc6ec4d2c9f58d3883cc",
   "notes": "Nouveau : glitches de Genesis 1, « 📍 Noter la position » ou clic droit sur la carte pour placer un glitch relevé en jeu (par exemple ceux de l'océan).",
   "android": {
-    "version": "1.1.3",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.3/ShinySentry-1.1.3.apk",
-    "sha256": "87efe8095a26a9204075a0cae061740fb08c022a428bf4027fba40d8672c6002",
-    "notes": "Nouveau : glitches de Genesis 1, « 📍 Position » ou appui long sur la carte pour placer un glitch relevé en jeu (par exemple ceux de l'océan)."
+    "version": "1.1.4",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.4/ShinySentry-1.1.4.apk",
+    "sha256": "15bb8e83144bea30e7c1e93a6d090b13ed9efc5e4a5d867147ae2b7576c3dec0",
+    "notes": "Nouveau : Shops des tribus (⋮ → Shops des tribus), les offres du forum shop-tribus en une liste avec recherche et filtres, lue avec « ⟳ Actualiser ». En faisant défiler une liste, seule la barre de recherche reste en haut."
   }
 }
