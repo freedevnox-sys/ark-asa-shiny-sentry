@@ -18,7 +18,7 @@ Disponible sur **PC Windows** et sur **Android** (le téléphone fait tout seul,
 - **Fiche taming** de chaque créature (KO, passif, œuf…) avec lien Dododex.
 - **Historique** des Shinies détectés sur 7 jours.
 - **Cartes des recensements de tribus** (plugin TribeRegistry) : une carte par map avec les bases principales 🏠, avant-postes 📍 et déménagements 🚚, zoomable. Mise à jour **une fois par jour** ou à la demande, pour ton cluster ou n'importe quel autre. Depuis la fiche d'un Shiny, **« Tribus sur <map> »** ouvre la carte de sa map avec **la position du Shiny repérée** : tu vois tout de suite s'il est près d'une base.
-- **Shops des tribus** : les offres du forum shop-tribus de France Ark en une liste, avec recherche et filtres, lue à la demande.
+- **Shops des tribus** : les offres du forum shop-tribus de France Ark en une liste, avec recherche et filtres, lue à la demande ; alerte quand une nouvelle offre concerne une de tes créatures.
 - **Glitches de Genesis 1** : les 150 glitches (biomes, histoire, anecdotes) à cocher une fois réparés, avec leur **position sur la carte** de Genesis (ou celle que tu notes en jeu) et ta progression.
 - **Santé du scanner** : une map qui échoue plusieurs fois est mise en pause et signalée, puis reprise automatiquement ; écran **Diagnostic** exportable.
 - **Mises à jour intégrées** : l'application propose elle-même les nouvelles versions, vérifiées avant installation.
@@ -95,6 +95,7 @@ Bouton **💰 Shops** (PC) ou menu **⋮ → Shops des tribus** (Android) : les 
 - **Recherche** (dino, objet, tribu, vendeur…) et filtres par **cluster** et par **type** (étiquettes du forum).
 - Pour chaque offre : le texte du vendeur, les **prix** et les **espèces** repérés, et les **images** (clic ou toucher = image en grand).
 - Un clic (ou un toucher) sur un shop ouvre **son post dans Discord**.
+- **Nouvelles offres** (PC 1.3.7 / Android 1.1.5) : à chaque lecture, les offres apparues depuis la précédente sont marquées 🆕 (case « Nouvelles seulement ») et une **alerte** signale celles qui concernent une créature de tes filtres ; un clic (ou un toucher) ouvre les shops. La case « 🔔 Alerte… » de l'écran Shops la coupe.
 - La liste est lue **seulement quand tu cliques ou touches « Actualiser »** (environ 2 minutes) ; pendant une surveillance, la lecture passe entre deux cycles de scan. Lecture seule : rien n'est jamais posté.
 
 ## 🔄 Mises à jour
