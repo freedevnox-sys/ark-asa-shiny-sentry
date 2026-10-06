@@ -1,12 +1,12 @@
 {
-  "version": "1.3.8",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.8/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "cefe6b99d08ee0487e63e78d2645e0f066dd8a720c7933aa3bbbd5413a07e2c4",
-  "notes": "Shops des tribus plus fiables : posts lus en entier, réponses du vendeur aux acheteurs plus comptées comme des offres.",
+  "version": "1.3.9",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.9/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "b9539bb435352da36991d01fd32d36b13c6ff4aed7f3c70714b12e3e1461c77c",
+  "notes": "La fenêtre « Nouveautés » présente maintenant les cinq dernières versions.",
   "android": {
-    "version": "1.1.6",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.6/ShinySentry-1.1.6.apk",
-    "sha256": "a588f28cecdfc5f60c29693e501db0ea13162d597ef503d7f2f9dfc6101b9935",
-    "notes": "Shops des tribus plus fiables : posts lus en entier, réponses du vendeur aux acheteurs plus comptées comme des offres."
+    "version": "1.1.7",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.7/ShinySentry-1.1.7.apk",
+    "sha256": "35c14295509af42a71bc6e38f8cf56e6e592c13c2e7d3461f30fbcfa2463ae96",
+    "notes": "La fenêtre « Nouveautés » présente maintenant les cinq dernières versions."
   }
 }
