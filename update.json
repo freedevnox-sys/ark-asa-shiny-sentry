@@ -1,12 +1,12 @@
 {
-  "version": "1.3.11",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.11/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "e62175402a3f45e381b2f2be13a8627ad6ccfb7b94c931fcdd2ac105190128e8",
-  "notes": "Scan allégé : les maps dont le nombre de Shinies n'a pas changé ne sont plus rouvertes (moins de charge pour L'indic).",
+  "version": "1.3.12",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.12/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "fa39d7be24c2d53536adb31179d68a98974482e5fb9c55f2338cf51c7ed513b1",
+  "notes": "Glitches : les 30 glitches de l'océan ont maintenant leur position sur la carte Genesis Ocean.",
   "android": {
-    "version": "1.1.9",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.9/ShinySentry-1.1.9.apk",
-    "sha256": "c39eca7803d6445b6c30ecd9433d912e64645b19a62f3f7625b455563765f977",
-    "notes": "Scan allégé : les maps dont le nombre de Shinies n'a pas changé ne sont plus rouvertes (moins de charge pour L'indic)."
+    "version": "1.1.10",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.10/ShinySentry-1.1.10.apk",
+    "sha256": "0922e3001ea932ac65d4e8752949d4226de4a6440c8b6632a57d842f5568334f",
+    "notes": "Glitches : les 30 glitches de l'océan ont maintenant leur position sur la carte Genesis Ocean."
   }
 }
