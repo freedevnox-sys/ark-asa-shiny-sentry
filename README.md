@@ -11,7 +11,7 @@ Disponible sur **PC Windows** et sur **Android** (le téléphone fait tout seul,
 
 ## ✨ Fonctions
 
-- **Surveillance automatique** du salon Shiny de L'indic, map par map, à intervalle régulier.
+- **Surveillance automatique** du salon Shiny de L'indic, map par map, à intervalle régulier. **Scan allégé** : une map dont le nombre de Shinies n'a pas changé n'est pas rouverte (chaque map est relue au moins toutes les 15 minutes), pour solliciter le bot le moins possible (PC 1.3.11 / Android 1.1.9).
 - **Alertes** (notification Windows ou Android) pour les nouveaux Shinies uniquement, jamais deux fois le même.
 - **Filtres** : créatures, types de Shiny et couleurs, combinables en **ET / OU** — ou tout recevoir, ou rien.
 - **Liste des Shinies présents** avec recherche, tri, coordonnées **Lat / Lon** à copier en un clic.
@@ -94,7 +94,7 @@ Bouton **💰 Shops** (PC) ou menu **⋮ → Shops des tribus** (Android) : les 
 
 - **Recherche** (dino, objet, tribu, vendeur…) et filtres par **cluster** et par **type** (étiquettes du forum).
 - Pour chaque offre : le texte du vendeur, les **prix** et les **espèces** repérés, et les **images** (clic ou toucher = image en grand).
-- **Tri par prix** (croissant ou décroissant) et **prix maximum** (de ≤ 10 k à ≤ 5 M), d'après le prix le plus bas repéré dans chaque offre (PC 1.3.10 / Android 1.1.8).
+- **Tri par prix** (croissant ou décroissant) et **prix maximum** (de ≤ 10 k à ≤ 5 M), d'après le premier prix annoncé dans chaque offre (PC 1.3.10 / Android 1.1.8).
 - Un clic (ou un toucher) sur un shop ouvre **son post dans Discord**.
 - **Nouvelles offres** (PC 1.3.7 / Android 1.1.5) : à chaque lecture, les offres apparues depuis la précédente sont marquées 🆕 (case « Nouvelles seulement ») et une **alerte** signale celles qui concernent une créature de tes filtres ; un clic (ou un toucher) ouvre les shops. La case « 🔔 Alerte… » de l'écran Shops la coupe.
 - La liste est lue **seulement quand tu cliques ou touches « Actualiser »** (environ 2 minutes) ; pendant une surveillance, la lecture passe entre deux cycles de scan. Lecture seule : rien n'est jamais posté.
