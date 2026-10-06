@@ -1,12 +1,12 @@
 {
-  "version": "1.3.10",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.10/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "7ebe534bdd9fad94416f0a4ea12456d538999a83b71bf2f9d7c404cc157bb6f0",
-  "notes": "Shops des tribus : tri par prix et prix maximum ; lecture des prix corrigée.",
+  "version": "1.3.11",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.11/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "e62175402a3f45e381b2f2be13a8627ad6ccfb7b94c931fcdd2ac105190128e8",
+  "notes": "Scan allégé : les maps dont le nombre de Shinies n'a pas changé ne sont plus rouvertes (moins de charge pour L'indic).",
   "android": {
-    "version": "1.1.8",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.8/ShinySentry-1.1.8.apk",
-    "sha256": "1faa285994ee6c8483cf8a502a3fff0c9a017327f50f562d7feb79b663a26f31",
-    "notes": "Shops des tribus : tri par prix et prix maximum ; lecture des prix corrigée."
+    "version": "1.1.9",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.9/ShinySentry-1.1.9.apk",
+    "sha256": "c39eca7803d6445b6c30ecd9433d912e64645b19a62f3f7625b455563765f977",
+    "notes": "Scan allégé : les maps dont le nombre de Shinies n'a pas changé ne sont plus rouvertes (moins de charge pour L'indic)."
   }
 }
