@@ -84,7 +84,7 @@ Bouton **🧩 Glitches Gen 1** (PC) ou menu **⋮ → Glitches de Genesis 1** (A
 - **Coche** un glitch une fois réparé (PC : clic dans la colonne ✔, double-clic ou Espace) ; ta progression s'affiche par type.
 - Filtres **À réparer / Réparés**, par type, par biome, et recherche (« siphon », « volcan »…).
 - Choisis un glitch : il apparaît en **cible jaune** sur la carte de Genesis du recensement, les autres glitches en pastilles **vertes** (réparés) ou **orange** (à réparer). Seuls les glitches sont affichés : ni ressources, ni autres points d'intérêt. Coordonnées Lat / Lon à copier (PC).
-- Les positions sont celles du wiki, converties pour ASA (Genesis est agrandie en ASA). Les **30 glitches de l'océan** n'ont pas de position connue en ASA : à toi de la noter.
+- Les positions des glitches terrestres sont celles du wiki, converties pour ASA (Genesis est agrandie en ASA). Celles des **30 glitches de l'océan** viennent des données du jeu ASA, sur la carte « Genesis Ocean » : 27 au centre de l'océan, autour des terminaux des missions, et 3 sur des îles (PC 1.3.12 / Android 1.1.10).
 - **📍 Noter la position** (PC : bouton ou clic droit sur la carte ; Android : **📍 Position** ou appui long sur la carte) : place un glitch là où tu l'as trouvé en jeu, ou corrige une position fausse. Ta position (notée) remplace celle du wiki ; « Oublier » la retire. Celles notées sur le PC passent sur le téléphone avec **Configuration → ⋮ → Importer une config…** (config.json du PC).
 - La carte vient du recensement : ouvre une fois **🗺 Cartes → Actualiser** sur un cluster qui a Genesis.
 
