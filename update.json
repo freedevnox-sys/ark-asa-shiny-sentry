@@ -4,9 +4,9 @@
   "sha256": "fa39d7be24c2d53536adb31179d68a98974482e5fb9c55f2338cf51c7ed513b1",
   "notes": "Glitches : les 30 glitches de l'océan ont maintenant leur position sur la carte Genesis Ocean.",
   "android": {
-    "version": "1.1.10",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.10/ShinySentry-1.1.10.apk",
-    "sha256": "0922e3001ea932ac65d4e8752949d4226de4a6440c8b6632a57d842f5568334f",
-    "notes": "Glitches : les 30 glitches de l'océan ont maintenant leur position sur la carte Genesis Ocean."
+    "version": "1.1.11",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.11/ShinySentry-1.1.11.apk",
+    "sha256": "748a0f0e32c9a694a299e3fb5b1a9c2ebcd0ea43b75dd07205999e39e132a9fd",
+    "notes": "Shops des tribus : l'écran ne plante plus à l'ouverture."
   }
 }
