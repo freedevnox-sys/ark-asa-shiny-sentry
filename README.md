@@ -11,8 +11,8 @@ Disponible sur **PC Windows** et sur **Android** (le téléphone fait tout seul,
 
 ## ✨ Fonctions
 
-- **Surveillance automatique** du salon Shiny de L'indic, map par map, à intervalle régulier. **Scan allégé** : une map dont le nombre de Shinies n'a pas changé n'est pas rouverte (chaque map est relue au moins toutes les 15 minutes), pour solliciter le bot le moins possible (PC 1.3.11 / Android 1.1.9).
-- **Alertes** (notification Windows ou Android) pour les nouveaux Shinies uniquement, jamais deux fois le même.
+- **Surveillance automatique** du salon Shiny de L'indic, map par map, à intervalle régulier. **Scan allégé** : une map dont le nombre de Shinies n'a pas changé n'est pas rouverte (chaque map est relue au moins toutes les 15 minutes), pour solliciter le bot le moins possible (PC 1.3.11 / Android 1.1.9). **Ralentissement automatique** : quand L'indic répond mal, l'attente entre deux cycles double (jusqu'à ×4) puis revient à la normale (PC 1.3.15 / Android 1.1.12).
+- **Alertes** (notification Windows ou Android) pour les nouveaux Shinies uniquement, jamais deux fois le même. Plusieurs Shinies dans un même cycle : la première alerte tout de suite, les suivantes réunies en une seule. **Alertes importantes** qui passent le mode « Ne pas déranger » (PC 1.3.14 / Android 1.1.12) ; sur PC, **son d'alerte** joué par l'appli et liste des **alertes récentes** pour rattraper celles passées pendant une partie (PC 1.3.15).
 - **Filtres** : créatures, types de Shiny et couleurs, combinables en **ET / OU** — ou tout recevoir, ou rien.
 - **Liste des Shinies présents** avec recherche, tri, coordonnées **Lat / Lon** à copier en un clic.
 - **Fiche taming** de chaque créature (KO, passif, œuf…) avec lien Dododex.
