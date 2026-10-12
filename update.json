@@ -1,8 +1,8 @@
 {
-  "version": "1.3.12",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.12/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "fa39d7be24c2d53536adb31179d68a98974482e5fb9c55f2338cf51c7ed513b1",
-  "notes": "Glitches : les 30 glitches de l'océan ont maintenant leur position sur la carte Genesis Ocean.",
+  "version": "1.3.13",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.13/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "2a87bcc3bd8a625779e6a16b3b3e26675ce013339e4c7648bc9f91e0fde12025",
+  "notes": "Notifications Windows réparées : les alertes Shiny s'affichent de nouveau.",
   "android": {
     "version": "1.1.11",
     "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.11/ShinySentry-1.1.11.apk",
