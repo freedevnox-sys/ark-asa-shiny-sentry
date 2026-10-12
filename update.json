@@ -1,12 +1,12 @@
 {
-  "version": "1.3.14",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.14/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "71f76be6babbc413640296fd83d7d5955ae9e3af321a62afb5b8bd8a71b53752",
-  "notes": "Alertes Shiny importantes : option pour passer le mode « Ne pas déranger » de Windows.",
+  "version": "1.3.15",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.15/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "3f8432f029a460aef1b2d1e009db96a0e09abe650e7df9d85204347e9114c948",
+  "notes": "Son d'alerte, alertes récentes, alertes regroupées par cycle et ralentissement automatique.",
   "android": {
-    "version": "1.1.11",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.11/ShinySentry-1.1.11.apk",
-    "sha256": "748a0f0e32c9a694a299e3fb5b1a9c2ebcd0ea43b75dd07205999e39e132a9fd",
-    "notes": "Shops des tribus : l'écran ne plante plus à l'ouverture."
+    "version": "1.1.12",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.12/ShinySentry-1.1.12.apk",
+    "sha256": "1ceb1923daadbefb0e1efe5aa2c04dc1b4a2bce5720dd0116bb7b3ad638a2a4f",
+    "notes": "Alertes importantes (passent Ne pas déranger), alertes regroupées par cycle et ralentissement automatique."
   }
 }
