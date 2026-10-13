@@ -16,14 +16,14 @@ Disponible sur **PC Windows** et sur **Android** (le téléphone fait tout seul,
 - **Filtres** : créatures, types de Shiny et couleurs, combinables en **ET / OU** — ou tout recevoir, ou rien.
 - **Liste des Shinies présents** avec recherche, tri, coordonnées **Lat / Lon** à copier en un clic.
 - **Fiche taming** de chaque créature (KO, passif, œuf…) avec lien Dododex.
-- **Historique** des Shinies détectés sur 7 jours.
+- **Historique** des Shinies détectés sur 7 jours, avec ses **statistiques** : heures, maps, créatures, types et couleurs les plus fréquents (PC 1.3.18 / Android 1.1.15).
 - **Cartes des recensements de tribus** (plugin TribeRegistry) : une carte par map avec les bases principales 🏠, avant-postes 📍 et déménagements 🚚, zoomable. Mise à jour **une fois par jour** ou à la demande, pour ton cluster ou n'importe quel autre. Depuis la fiche d'un Shiny, **« Tribus sur <map> »** ouvre la carte de sa map avec **la position du Shiny repérée** : tu vois tout de suite s'il est près d'une base.
 - **Shops des tribus** : les offres du forum shop-tribus de France Ark en une liste, avec recherche et filtres, lue à la demande ; alerte quand une nouvelle offre concerne une de tes créatures.
 - **Glitches de Genesis 1** : les 150 glitches (biomes, histoire, anecdotes) à cocher une fois réparés, avec leur **position sur la carte** de Genesis (ou celle que tu notes en jeu) et ta progression.
-- **Santé du scanner** : une map qui échoue plusieurs fois est mise en pause et signalée, puis reprise automatiquement ; écran **Diagnostic** exportable.
+- **Santé du scanner** : une map qui échoue plusieurs fois est mise en pause et signalée, puis reprise automatiquement ; écran **Diagnostic** exportable, avec la **charge du bot** (appels par heure, appels évités) et des incidents qui donnent la réponse du bot et la raison de chaque ligne refusée.
 - **Mises à jour intégrées** : l'application propose elle-même les nouvelles versions, vérifiées avant installation.
 
-Côté PC uniquement : **Status serveur** (joueurs connectés par map).
+Côté PC uniquement : **Status serveur** (joueurs connectés par map) et **pause quand ARK est fermé** (case à décocher pour scanner jeu fermé).
 Côté Android : surveillance **en arrière-plan et écran éteint**, import de la configuration PC.
 
 ---
