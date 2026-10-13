@@ -1,12 +1,12 @@
 {
-  "version": "1.3.15",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.15/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "3f8432f029a460aef1b2d1e009db96a0e09abe650e7df9d85204347e9114c948",
-  "notes": "Son d'alerte, alertes récentes, alertes regroupées par cycle et ralentissement automatique.",
+  "version": "1.3.16",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.16/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "7f595e11d49d502d434431c4422c86d4231465ee7d39aa78ca287455f16b861e",
+  "notes": "Shinies au bord de la carte lus (une map n'échoue plus à cause d'eux), vote Top-Serveurs retiré.",
   "android": {
-    "version": "1.1.12",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.12/ShinySentry-1.1.12.apk",
-    "sha256": "1ceb1923daadbefb0e1efe5aa2c04dc1b4a2bce5720dd0116bb7b3ad638a2a4f",
-    "notes": "Alertes importantes (passent Ne pas déranger), alertes regroupées par cycle et ralentissement automatique."
+    "version": "1.1.13",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.13/ShinySentry-1.1.13.apk",
+    "sha256": "8327d034a6b4d949ac4fda9290b89b095c130b9bc1da70f811f8302c8fea7282",
+    "notes": "Shinies au bord de la carte lus : une map n'échoue plus à cause d'eux."
   }
 }
