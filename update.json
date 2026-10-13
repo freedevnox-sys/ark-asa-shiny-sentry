@@ -1,12 +1,12 @@
 {
-  "version": "1.3.16",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.16/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "7f595e11d49d502d434431c4422c86d4231465ee7d39aa78ca287455f16b861e",
-  "notes": "Shinies au bord de la carte lus (une map n'échoue plus à cause d'eux), vote Top-Serveurs retiré.",
+  "version": "1.3.17",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.17/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "f6c231e4346d12851c263763bc2c9dd94debb99684da5230b1767fcbea4a6a79",
+  "notes": "Moins de sollicitations pour L'indic : contrôle complet réglable, baisses non relues, plage horaire, choix des maps.",
   "android": {
-    "version": "1.1.13",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.13/ShinySentry-1.1.13.apk",
-    "sha256": "8327d034a6b4d949ac4fda9290b89b095c130b9bc1da70f811f8302c8fea7282",
-    "notes": "Shinies au bord de la carte lus : une map n'échoue plus à cause d'eux."
+    "version": "1.1.14",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.14/ShinySentry-1.1.14.apk",
+    "sha256": "c2255e0940ae3edcdd30c1720e9df7265971a721af810d6c629a9c6f418a65ff",
+    "notes": "Moins de sollicitations pour L'indic : contrôle complet réglable, baisses non relues, plage horaire."
   }
 }
