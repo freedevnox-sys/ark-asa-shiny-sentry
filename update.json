@@ -1,12 +1,12 @@
 {
-  "version": "1.3.17",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.17/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "f6c231e4346d12851c263763bc2c9dd94debb99684da5230b1767fcbea4a6a79",
-  "notes": "Moins de sollicitations pour L'indic : contrôle complet réglable, baisses non relues, plage horaire, choix des maps.",
+  "version": "1.3.18",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.18/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "c6d490f7b792e427744bcab71b3ddd6cb26b2439b54eac7f265ede25293782f4",
+  "notes": "Pause quand ARK est fermé, statistiques des apparitions, charge du bot et diagnostic détaillé.",
   "android": {
-    "version": "1.1.14",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.14/ShinySentry-1.1.14.apk",
-    "sha256": "c2255e0940ae3edcdd30c1720e9df7265971a721af810d6c629a9c6f418a65ff",
-    "notes": "Moins de sollicitations pour L'indic : contrôle complet réglable, baisses non relues, plage horaire."
+    "version": "1.1.15",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.15/ShinySentry-1.1.15.apk",
+    "sha256": "cbb63f3d3e06a2e6f35518ca91da24e6c17b55e61e97893f3c85ddcd5aaac15d",
+    "notes": "Âges anglais lus, statistiques des apparitions, charge du bot et diagnostic détaillé."
   }
 }
