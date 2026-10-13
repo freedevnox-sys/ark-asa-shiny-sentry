@@ -23,7 +23,7 @@ Disponible sur **PC Windows** et sur **Android** (le téléphone fait tout seul,
 - **Santé du scanner** : une map qui échoue plusieurs fois est mise en pause et signalée, puis reprise automatiquement ; écran **Diagnostic** exportable.
 - **Mises à jour intégrées** : l'application propose elle-même les nouvelles versions, vérifiées avant installation.
 
-Côté PC uniquement : **Status serveur** (joueurs connectés par map) et rappel du **vote Top-Serveurs**.
+Côté PC uniquement : **Status serveur** (joueurs connectés par map).
 Côté Android : surveillance **en arrière-plan et écran éteint**, import de la configuration PC.
 
 ---
