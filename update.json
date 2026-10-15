@@ -1,12 +1,12 @@
 {
-  "version": "1.3.18",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.18/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "c6d490f7b792e427744bcab71b3ddd6cb26b2439b54eac7f265ede25293782f4",
-  "notes": "Pause quand ARK est fermé, statistiques des apparitions, charge du bot et diagnostic détaillé.",
+  "version": "1.3.19",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.19/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "bba9d4e971913811e9f18d46cd72b3b8fa6190af432207195f1d582f0984812c",
+  "notes": "Liste des dinos complétée (noms Obelisk, créatures vues, mise à jour automatique).",
   "android": {
-    "version": "1.1.15",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.15/ShinySentry-1.1.15.apk",
-    "sha256": "cbb63f3d3e06a2e6f35518ca91da24e6c17b55e61e97893f3c85ddcd5aaac15d",
-    "notes": "Âges anglais lus, statistiques des apparitions, charge du bot et diagnostic détaillé."
+    "version": "1.1.16",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.16/ShinySentry-1.1.16.apk",
+    "sha256": "991c1acf17351db6b854091fd8ab117de12191f0165f3176a91fd6335b0d6852",
+    "notes": "Badge NOUVEAU cohérent avec les scans et liste des dinos complétée."
   }
 }
