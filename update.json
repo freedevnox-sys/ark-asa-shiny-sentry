@@ -4,9 +4,9 @@
   "sha256": "bba9d4e971913811e9f18d46cd72b3b8fa6190af432207195f1d582f0984812c",
   "notes": "Liste des dinos complétée (noms Obelisk, créatures vues, mise à jour automatique).",
   "android": {
-    "version": "1.1.16",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.16/ShinySentry-1.1.16.apk",
-    "sha256": "991c1acf17351db6b854091fd8ab117de12191f0165f3176a91fd6335b0d6852",
-    "notes": "Badge NOUVEAU cohérent avec les scans et liste des dinos complétée."
+    "version": "1.1.17",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.17/ShinySentry-1.1.17.apk",
+    "sha256": "d056ad283d1bdd27ea352fc762fb2de3dc8a28e9c866ef27383f465eb6674fbe",
+    "notes": "Fiche d'un Shiny : touche un type pour voir ses effets détaillés."
   }
 }
