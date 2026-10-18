@@ -1,12 +1,12 @@
 {
-  "version": "1.3.20",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.20/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "7bcfe59d15054b64f4047f51af6fdf805dde7e35f80e5f4188e51ba5713e9980",
-  "notes": "Liste toujours à jour : une map dont le nombre de Shinies baisse est relue aussitôt.",
+  "version": "1.3.21",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.21/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "2e8b74b7ee530ce661ac43d7bfee38d951d7d06db133f542a613a055185bf95e",
+  "notes": "Rafraîchissement complet tous les 5 cycles : un Shiny parti puis remplacé par un autre sur la même map est bien mis à jour dans la liste.",
   "android": {
-    "version": "1.1.18",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.18/ShinySentry-1.1.18.apk",
-    "sha256": "9ae4dda3880de18eff12758797ee1161e086806a9e20338d0c55cec980902fcb",
-    "notes": "Liste toujours à jour : une map dont le nombre de Shinies baisse est relue aussitôt."
+    "version": "1.1.19",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.19/ShinySentry-1.1.19.apk",
+    "sha256": "d5c709e5467411b30348645f731a316e095f577dba00e9c524e497b2fcdc2517",
+    "notes": "Rafraîchissement complet tous les 5 cycles : un Shiny parti puis remplacé par un autre sur la même map est bien mis à jour dans la liste."
   }
 }
