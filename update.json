@@ -1,12 +1,12 @@
 {
-  "version": "1.3.23",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.23/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "d3b628320f77a519cdbc5469ee4e395467e85356a34913237980104cffa29017",
-  "notes": "Maps surveillées : décocher une map n'exclut plus qu'elle (Valguero ne se décoche plus toute seule).",
+  "version": "1.3.24",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.24/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "73fcd7515cdb0a4f75e90e04e80a283005c596119c9355d9b3f7a1e0e27fdae5",
+  "notes": "Fiches taming détaillées pour 168 créatures : nourriture, déroulé propre à l'espèce et points d'attention.",
   "android": {
-    "version": "1.1.20",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.20/ShinySentry-1.1.20.apk",
-    "sha256": "f879afe6e8545f1a15b2307d803d9f9a3494e11d14211a601d7c8d0edeea2515",
-    "notes": "Âge de la liste : chaque map indique depuis quand ses Shinies ont été lus, et le prochain rafraîchissement complet est annoncé."
+    "version": "1.1.21",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.21/ShinySentry-1.1.21.apk",
+    "sha256": "fb4037ed85932b208ca8501393cb119b872b6ea26240ec5d0e28b0e14eb2b2b1",
+    "notes": "Fiches taming détaillées pour 168 créatures : nourriture, déroulé propre à l'espèce et points d'attention."
   }
 }
