@@ -4,9 +4,9 @@
   "sha256": "73fcd7515cdb0a4f75e90e04e80a283005c596119c9355d9b3f7a1e0e27fdae5",
   "notes": "Fiches taming détaillées pour 168 créatures : nourriture, déroulé propre à l'espèce et points d'attention.",
   "android": {
-    "version": "1.1.21",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.21/ShinySentry-1.1.21.apk",
-    "sha256": "fb4037ed85932b208ca8501393cb119b872b6ea26240ec5d0e28b0e14eb2b2b1",
-    "notes": "Fiches taming détaillées pour 168 créatures : nourriture, déroulé propre à l'espèce et points d'attention."
+    "version": "1.1.22",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.22/ShinySentry-1.1.22.apk",
+    "sha256": "b5cb08847e94af72246c9578b110f83ab64dead165a89ec49f3dd333216a4353",
+    "notes": "OSD et veines d'élément : lus à la demande et placés sur la carte de leur map."
   }
 }
