@@ -1,12 +1,12 @@
 {
-  "version": "1.3.26",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.26/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "27991a5ac75b80c14f51ba34919874edcc1672ad6b9c94b14bfd2e81a741f169",
-  "notes": "Alertes Père Noël : prévenu 5 minutes avant son passage (minuit du jeu) sur chaque map du cluster.",
+  "version": "1.3.27",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.27/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "4f0105d009eefaf29b6f4669eb5bb9e685fb1d798febab281bdab19e1227fe1c",
+  "notes": "Onglet Père Noël : les maps du cluster classées par temps restant avant minuit du jeu, avec compte à rebours.",
   "android": {
-    "version": "1.1.23",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.23/ShinySentry-1.1.23.apk",
-    "sha256": "d34e0007f3ae102aaf9bf06f35169157afb618e755d5d0d8af735d58ca10f7c4",
-    "notes": "Alertes Père Noël : prévenu 5 minutes avant son passage (minuit du jeu) sur chaque map du cluster."
+    "version": "1.1.24",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.24/ShinySentry-1.1.24.apk",
+    "sha256": "3b0de37d548187e824ca31f011432184b494f6a7647535cb43ac0c2e3ae41399",
+    "notes": "Onglet Père Noël : les maps du cluster classées par temps restant avant minuit du jeu, avec compte à rebours."
   }
 }
