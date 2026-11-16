@@ -1,12 +1,12 @@
 {
-  "version": "1.3.30",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.30/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "5cf07991ee88ebab8cc1b0186e71b646500454dfdaca2b572fa489777b918f9f",
-  "notes": "World Boss : fin du combat vue en 3 minutes au plus, ligne désactivable dans la configuration.",
+  "version": "1.3.31",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.31/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "6101cad764a17087343ebd1d3945371eb08b22ae7a567bdab97b99acc26f009f",
+  "notes": "World Boss notifié dès l'annonce (filtres par difficulté et par map), types Shiny inconnus signalés, fiabilité du Père Noël.",
   "android": {
-    "version": "1.1.27",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.27/ShinySentry-1.1.27.apk",
-    "sha256": "5029dbabb288e4807583301c1e4dc0858aa919ca1df52146e057d282754078ce",
-    "notes": "World Boss : fin du combat vue en 3 minutes au plus, ligne désactivable dans la configuration."
+    "version": "1.1.28",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.28/ShinySentry-1.1.28.apk",
+    "sha256": "db8023e2812f7ce8ab819c35dc4978f5d7cbf329dcbfc773428e7a4eb6ebd65b",
+    "notes": "World Boss notifié dès l'annonce (filtres par difficulté et par map), types Shiny inconnus signalés, fiabilité du Père Noël. Nouveau widget pour l'écran d'accueil."
   }
 }
