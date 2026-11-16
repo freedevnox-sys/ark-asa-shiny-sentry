@@ -1,12 +1,12 @@
 {
-  "version": "1.3.31",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.31/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "6101cad764a17087343ebd1d3945371eb08b22ae7a567bdab97b99acc26f009f",
-  "notes": "World Boss notifié dès l'annonce (filtres par difficulté et par map), types Shiny inconnus signalés, fiabilité du Père Noël.",
+  "version": "1.3.32",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.32/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "b6fda28b102d463ddfbd0d5294c50d5ea868774f0e1defb1dc525ed3cdec21e4",
+  "notes": "Nouveaux types du mod reconnus tout seuls (vus devant 2 créatures), descriptions par une liste en ligne.",
   "android": {
-    "version": "1.1.28",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.28/ShinySentry-1.1.28.apk",
-    "sha256": "db8023e2812f7ce8ab819c35dc4978f5d7cbf329dcbfc773428e7a4eb6ebd65b",
-    "notes": "World Boss notifié dès l'annonce (filtres par difficulté et par map), types Shiny inconnus signalés, fiabilité du Père Noël. Nouveau widget pour l'écran d'accueil."
+    "version": "1.1.29",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.29/ShinySentry-1.1.29.apk",
+    "sha256": "7f9f2c6d41c7ec6133f29a3c664d70b8579dd01196f963e1570f9f3e2f644d25",
+    "notes": "Nouveaux types du mod reconnus tout seuls (vus devant 2 créatures), descriptions par une liste en ligne."
   }
 }
