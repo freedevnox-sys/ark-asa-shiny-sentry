@@ -1,12 +1,12 @@
 {
-  "version": "1.3.33",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.33/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "4ac44a98f5c2c086d940ae999302c6e30811e5cbd417e59dcc7e8775b7e0cdfc",
-  "notes": "Liste des dinos : créatures toutes récentes absentes d’Obelisk (nouveaux S-Dinos) par la liste en ligne.",
+  "version": "1.3.34",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.34/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "c64f17ca97fd0dbc628ab73eb5e06ba6b7c3e307141b15348938923d5744d9c5",
+  "notes": "Mode discret : 1 à 5 minutes entre deux cycles selon l’activité, au lieu d’un intervalle fixe.",
   "android": {
-    "version": "1.1.30",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.30/ShinySentry-1.1.30.apk",
-    "sha256": "1563735a1f3bb238856b018b4d43146b6995b05603224d1c7cddf90a1f667400",
-    "notes": "Liste des dinos : créatures toutes récentes absentes d’Obelisk (nouveaux S-Dinos) par la liste en ligne."
+    "version": "1.1.31",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.31/ShinySentry-1.1.31.apk",
+    "sha256": "0cac44876972fb9c6445fccc3e245cea0bc0d0a3321d7ff658857d3a538ff347",
+    "notes": "Mode discret : 1 à 5 minutes entre deux cycles selon l’activité, au lieu d’un intervalle fixe."
   }
 }
