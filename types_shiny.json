@@ -1,13 +1,33 @@
 {
   "format": 1,
-  "maj": "2026-11-18",
+  "maj": "2026-11-24",
   "note": "Types, couleurs et créatures ajoutés sans nouvelle version de Shiny Sentry. Types : PC 1.3.32+ / Android 1.1.29+. Créatures (absentes d'Obelisk, ajoutées si leur mod est dans la liste des dinos) : PC 1.3.33+ / Android 1.1.30+.",
-  "types": {},
+  "types": {
+    "Obscure": {
+      "court": "Aggro sauvage réduite",
+      "detail": "Réduit l'attention et l'agressivité des créatures sauvages envers le joueur ou le dino bénéficiant de l'effet. Nom exact du mod : « Obscure » (l'appli l'avait sous « Obscured »).",
+      "icone": "🌫️",
+      "libelle": "OBSCURE",
+      "palette": [
+        "#424242",
+        "#9E9E9E"
+      ]
+    }
+  },
   "couleurs": {},
   "pas_des_types": [],
   "creatures": {
-    "S-Giganotosaurus": {"mod": "912815", "ajout": "S-Dino Variants, 10 novembre 2026"},
-    "S-Gargantar": {"mod": "912815", "ajout": "S-Dino Variants, 10 novembre 2026"},
-    "S-Titanoscorpius": {"mod": "912815", "ajout": "S-Dino Variants, 17 novembre 2026"}
+    "S-Giganotosaurus": {
+      "mod": "912815",
+      "ajout": "S-Dino Variants, 10 novembre 2026"
+    },
+    "S-Gargantar": {
+      "mod": "912815",
+      "ajout": "S-Dino Variants, 10 novembre 2026"
+    },
+    "S-Titanoscorpius": {
+      "mod": "912815",
+      "ajout": "S-Dino Variants, 17 novembre 2026"
+    }
   }
 }
