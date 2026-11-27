@@ -1,12 +1,12 @@
 {
-  "version": "1.3.35",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.35/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "a1f0c58f729dc12c1e24ca11e1601a82ca8ad87bb39d14655e194ea1b8c5f2d1",
-  "notes": "Type Obscure reconnu (nom exact du mod, l’appli l’avait sous « Obscured »).",
+  "version": "1.3.36",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.36/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "97a1e343321d4db674af2ad27832e41cf4c136d435251b12ac6eea57ba7b94a4",
+  "notes": "Recherche d’une tribu ou d’un joueur dans les cartes des recensements, avec sa base et ses avant-postes sur la carte.",
   "android": {
-    "version": "1.1.32",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.32/ShinySentry-1.1.32.apk",
-    "sha256": "f863528a4ac2cd9b98382c9ac606260ea01bf7fbf568836244a0ffa8904696e4",
-    "notes": "Type Obscure reconnu (nom exact du mod, l’appli l’avait sous « Obscured »)."
+    "version": "1.1.33",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.33/ShinySentry-1.1.33.apk",
+    "sha256": "b95e091784de957cbb84a6baaf2595357b939b751eb6f3f5444f442db156a170",
+    "notes": "Recherche d’une tribu ou d’un joueur dans les cartes des recensements, avec sa base et ses avant-postes sur la carte."
   }
 }
