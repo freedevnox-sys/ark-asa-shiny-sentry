@@ -1,12 +1,12 @@
 {
-  "version": "1.3.37",
-  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.37/ARK_ASA_Shiny_Sentry.exe",
-  "sha256": "e4d445c5dc26b64b0c8fc3ce84de9c833372b93709c1cf711eaa211b806fc48a",
-  "notes": "Fiche d’une tribu recensée : tous ses membres et les coordonnées de sa base et de ses avant-postes, à copier ou voir sur la carte.",
+  "version": "1.3.38",
+  "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/V1.3.38/ARK_ASA_Shiny_Sentry.exe",
+  "sha256": "cadc25a5c094e98ee8c467139ba06838b89b8376690911990285306c01b82c32",
+  "notes": "Recherche d’une tribu retirée des cartes des recensements.",
   "android": {
-    "version": "1.1.34",
-    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.34/ShinySentry-1.1.34.apk",
-    "sha256": "4f67ffab79342887485f95855361af988e7e72df2fd7bfd089be18cbc700b9e2",
-    "notes": "Fiche d’une tribu recensée : tous ses membres et les coordonnées de sa base et de ses avant-postes, à copier ou voir sur la carte."
+    "version": "1.1.35",
+    "url": "https://github.com/freedevnox-sys/ark-asa-shiny-sentry/releases/download/A1.1.35/ShinySentry-1.1.35.apk",
+    "sha256": "a0896b7a4d01b829155c86b7664a1cddbb6c9b567979cfb8ed4793b342e44c67",
+    "notes": "Recherche d’une tribu retirée des cartes des recensements."
   }
 }
